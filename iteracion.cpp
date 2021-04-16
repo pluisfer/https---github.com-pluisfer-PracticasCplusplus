@@ -19,7 +19,7 @@ int32_t main()
 
     for (int32_t i = 0; i < 5; i++)
     {
-        std::cout << "El valor contenido en la posicion" << i << "el vector es" << valores.at(i) << std::endl;
+        std::cout << "El valor contenido en la posicion" << i << " el vector es " << valores.at(i) << std::endl;
     }
 
     return 0;
